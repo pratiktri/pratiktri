@@ -7,6 +7,7 @@
 | **Stack** | Rust, Shell, TypeScript, Linux, FreeBSD, Docker, Neovim |
 | **Writes about** | Self-hosting, server security, AI privacy and safety, Rust tooling |
 | **Since** | 2006 |
+| **Contact** | [Message me](https://therustic.dev/#contact) |
 
 ### Sovereignty
 
@@ -36,4 +37,4 @@
 
 </details>
 
-[Blog](https://therustic.dev) | [Forgejo](https://git.pratik.live/pratik) | [GitHub](https://github.com/pratiktri)
+[Message me](https://therustic.dev/#contact) | [Blog](https://therustic.dev) | [Forgejo](https://git.pratik.live/pratik) | [GitHub](https://github.com/pratiktri)

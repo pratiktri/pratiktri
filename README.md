@@ -1,5 +1,4 @@
-
-## Pratik Tripathy
+## Pratik Kumar Tripathy
 
 | | |
 | --- | --- |
@@ -11,13 +10,13 @@
 
 ### Sovereignty
 
-- **Self-hosted stack**: this Forgejo, Kanidm SSO, notifications and analytics on my own VPS
+- **Self-hosted stack**: [Forgejo](https://git.pratik.live), Kanidm SSO, listmonk, ntfy and Umami on Dokploy, on my own VPS
 - **[rs-trafilatura-loader](https://git.pratik.live/pratik/rs-trafilatura-loader)**: clean Markdown for a self-hosted Open WebUI, at a fraction of Firecrawl's RAM
 
 ### Security
 
+- **[hau](https://git.pratik.live/AI/hau)**: pick a project and run a coding agent on it inside a microVM, with secrets injected from the host and kept out of the VM
 - **[server_init_harden](https://github.com/pratiktri/server_init_harden)**: SSH, Fail2ban and a firewall for a new Linux or FreeBSD server, in one POSIX script
-- **[hau](https://git.pratik.live/AI/hau)**: pick a project and run a coding agent on it inside a microVM, away from the host and secrets injected from host
 
 ### Agent tooling
 
@@ -29,12 +28,12 @@
 
 - **Visual Basic and Actuate**: brokerage reports for a bank
 - **Oracle PL/SQL**
-- **.NET**: Storage reporting at NetApp
-- **Olfactly**: My own affiliate-marketing business, where I learned Linux, Docker, hosting, server security and AWK
-- **Rust, since 2020**: Web APIs, Raptor codes and threshold signatures for a layer-1 consensus protocol
-- **GenAI**: Earnings-call summarisation
-- **2026**: Building my own tools full time
+- **.NET**: storage reporting at NetApp
+- **Olfactly**: my own affiliate-marketing business, where I learned Linux, Docker, hosting, server security and AWK
+- **Rust, since 2020**: web APIs, Raptor codes and threshold signatures for a layer-1 consensus protocol
+- **GenAI**: earnings-call summarisation
+- **2026**: building my own tools full time
 
 </details>
 
-[therustic.dev](https://therustic.dev) | [GitHub mirror](https://github.com/pratiktri)
+[Blog](https://therustic.dev) | [Forgejo](https://git.pratik.live/pratik) | [GitHub](https://github.com/pratiktri)
